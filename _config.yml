@@ -1,0 +1,116 @@
+#
+# Basic settings.
+#
+#url: http://localhost:4000
+url: http://divideby.ml
+
+baseurl: ""
+title: Блог ноющего программиста
+description: Обо всём и сразу.
+avatar: /assets/img/Pikachu.png
+language: en
+
+#
+# Icons
+#
+icons:
+  rss: true
+  email:
+  github: Evmap
+  bitbucket:
+  twitter: divide_by_false
+  facebook:
+  google_plus:
+  tumblr:
+  behance:
+  dribbble:
+  flickr:
+  instagram:
+  linkedin:  # full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # full URL
+  steam:
+  wordpress:
+  youtube:
+
+#
+# Prettify url.
+#
+permalink: pretty
+
+#
+# Scripts.
+#
+google_analytics: UA-72712048-1
+disqus: true
+
+#
+# Localizations.
+#
+str_next: Next
+str_prev: Prev
+str_read_more: Читать далее...
+str_search: Поиск
+str_recent_posts: Недавние посты
+str_show_all_posts: Все посты
+
+#
+# Recent posts.
+#
+recent_posts_num: 10
+
+#
+# Pagination.
+#
+paginate: 10
+paginate_path: page/:num
+
+#
+# Social.
+#
+share_buttons:
+  twitter: true
+  facebook: false   # needs ogp.fb.app_id
+  hatena: false
+ogp:
+  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  fb:
+    admin: # facebook admin id
+    app_id: # facebook application id
+
+#
+# Gems.
+#
+gems:
+  - jemoji
+  - jekyll-paginate
+
+#
+# Styles: see "_sass/base/_variables.scss"
+#
+
+#
+# !! Danger zone !!
+#
+
+include: ["_pages"]
+
+markdown: kramdown
+redcarpet:
+  extensions: ["autolink", "fenced_code_blocks", "strikethrough", "superscript", "with_toc_data", "tables", "footnotes", "no_intra_emphasis"]
+highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+  style: :compressed # or :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
