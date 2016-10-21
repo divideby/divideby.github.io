@@ -2,7 +2,7 @@
 layout: post
 title: "Hello everyone!"
 date: "2016-01-22 00:45:20 +0800"
-tags: emacs music jekyll golang library prog java ios android guitar clojure offtop php python swift
+tags: draft
 eye_catch: http://demiart.ru/forum/index.php?act=module&module=gallery&cmd=viewimage&img=64379
 ---
 ## Всем привет!
@@ -15,25 +15,24 @@ eye_catch: http://demiart.ru/forum/index.php?act=module&module=gallery&cmd=viewi
 
 Итак, первым же постом хочу сразу же определить теги, которые я планирую использовать + краткое описание. Поехали!
 
-### [#emacs]({{ site.baseurl }}/search?t=emacs) 
+### #emacs
 ![](http://ergoemacs.org/emacs/emacs_logo/emacs_logo_no_border.png)
 
 Описание/восхваление/признание в любви лучшему в мире текстовому редактору! Тонкости настройки *.emacs*, используемые и неиспользуемые плагины, бесконечные рассказы о том, что емакс может заменить вам все программы на компьютере. Надеюсь когда-нибудь и мой дорогой читатель (если такой вдруг появится) перейдет на эту прелесть и обратится в веру его святейшества Столлмана
 
-### [#music]({{ site.baseurl }}/search?t=music) [#guitar]({{ site.baseurl }}/search?t=guitar)
+### #music
 Спонтанные посты о музыке и новые открытия в этом удивительном мире, который я как никогда прочувствовал в прошлом году. Разговоры о песнях, периодические посты о прогрессе в обучении игры на гитаре, возможно c рассказами о возникших трудностях.
 
-### [#jekyll]({{ site.baseurl }}/search?t=jekyll)
+### #jekyll
 Рассказы о технической стороне блога. Что и как работает, что и как поменялось или поменяется. В планах полностью переписать текущий шаблон и добавить возможность отслеживать читаемые книги.
 
-###  [#prog]({{ site.baseurl }}/search?t=prog) [#golang]({{ site.baseurl }}/search?t=golang) [#java]({{ site.baseurl }}/search?t=java) [#ios]({{ site.baseurl }}/search?t=ios) [#android]({{ site.baseurl }}/search?t=android) [#php]({{ site.baseurl }}/search?t=php) [#clojure]({{ site.baseurl }}/search?t=clojure) [#python]({{ site.baseurl }}/search?t=python) [#swift]({{ site.baseurl }}/search?t=swift)
-
+###  #prog #golang #java #ios #android #php #clojure #python #swift 
 Всё что связано с программированием. Нытьё, рецепты, моя борьба с фреймворками и мобильными платформами. Всё тут. Скорее всего это будет самая частая рубрика. Буду стараться писать по любой проблеме.
 
-### [#library]({{ site.baseurl }}/search?t=library)
+### #library
 Библиотека. Книги которые я читал, читаю и буду читать. Ну и отзывы без спойлеров в комплекте. Тут всё просто.
 
-### [#offtop]({{ site.baseurl }}/search?t=offtop)
+### #offtop
 Тег на всякий случай.
 
 

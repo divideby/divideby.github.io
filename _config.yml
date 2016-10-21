@@ -2,10 +2,10 @@
 # Basic settings.
 #
 #url: http://localhost:4000
-url: http://divideby.ml
+url: http://divideby.ru
 
 baseurl: ""
-title: Блог ноющего программиста
+title: Технолистика
 description: Обо всём и сразу.
 avatar: /assets/img/Pikachu.png
 language: en
@@ -16,9 +16,9 @@ language: en
 icons:
   rss: true
   email:
-  github: Evmap
+  github: divideby
   bitbucket:
-  twitter: divide_by_false
+  twitter: _divideby
   facebook:
   google_plus:
   tumblr:
@@ -75,7 +75,7 @@ share_buttons:
   facebook: false   # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  image_url: /assets/img/Pikachu.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
@@ -84,7 +84,6 @@ ogp:
 # Gems.
 #
 gems:
-  - jemoji
   - jekyll-paginate
 
 #

@@ -1,28 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог ноющего программиста</title>
-    <atom:link href="http://divideby.ml/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://divideby.ml/</link>
+    <title>Технолистика</title>
+    <atom:link href="http://divideby.ru/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://divideby.ru/</link>
     <description>Обо всём и сразу.</description>
-    <pubDate>Mon, 01 Aug 2016 20:19:50 +0800</pubDate>
+    <pubDate>Fri, 21 Oct 2016 17:51:52 +0800</pubDate>
     
       
 
 
 
       <item>
-        <title>Тайм-Memеджмент | Блог ноющего программиста</title>
+        <title>Декабрист #000 | Технолистика</title>
         
         <image>
-          <url>http://divideby.ml/images/get-it-done/1.jpg</url>
-          <title>Тайм-Memеджмент</title>
-          <link>http://divideby.ml/2016/07/31/get-it-done/</link>
+          <url>/images/december/000.jpg</url>
+          <title>Декабрист #000</title>
+          <link>http://divideby.ru/2016/10/20/dekabrist000/</link>
         </image>
         
-        <link>http://divideby.ml/2016/07/31/get-it-done/</link>
-        <guid isPermaLink="true">http://divideby.ml/2016/07/31/get-it-done/</guid>
-        <description>&lt;p&gt;Пожалуй, уже 3 года я практикую такое популярное сегодня занятие, уступающее сейчас разве что ловле покемонов, как прокрастинация. За это время у меня она эволюционировала из «посидеть в социалочках», «поиграть в компьютер» в «общественную деятельность», «поиграть на гитарке/флейте» и «посмотреть, почему &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sHROHvxfLyM&quot;&gt;дельфин: животное-буддист&lt;/a&gt;&lt;/strong&gt;» и т.д. Да, это уже лучше. Всестороннее развитие сделает вас «интересной личностью»… но это не ведёт к достижению цели. На этом я не остановился и в конце концов дошел до того, что прокрастинировал, занимаясь поисками лекарства от прокрастинации. А над головой так же висят проекты, которые давно пора бы уже сделать…Чем лечить будем?&lt;/p&gt;
+        <link>http://divideby.ru/2016/10/20/dekabrist000/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/10/20/dekabrist000/</guid>
+        <description>&lt;p&gt;В рубрике &lt;strong&gt;Декабрист&lt;/strong&gt; я буду выкладывать интересное из сети, на что натыкаюсь за неделю. Ссылки на статьи, видео, сайты-залипалки. Короче то, под что прокастинирую с некоторой пользой. Выходит по пятницам-развратницам, так что не стесняйтесь, в пятницу можно.&lt;/p&gt;
+
+&lt;p&gt;Сегодня в выпуске у нас ука-ука-укачака, иконки, криповые истории и урбанистическая революция в Барселоне. Погнали.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;Как мужик тарелки ставил&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://batenka.ru/unity/watchtv/&quot;&gt;Начнем с жуткой реальности.&lt;/a&gt;&lt;/strong&gt; Три истории техника, который устанавливает телевизионные спутниковые тарелки. У людей подобных профессий свой взгляд на мир. Они повидали много людей и даже чуточку пожили их жизнью. Первая история невольно напомнила книгу о рабах.&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;Преподавание в США&lt;/h3&gt;
+
+&lt;p&gt;Наверняка вы читали об образовании в США. И, вероятно, эти рассказы были от лица русских студентов. &lt;strong&gt;&lt;a href=&quot;http://theoryandpractice.ru/posts/14743-studenty-zovut-menya-professor-a-aspiranty--misha-uchenye-gumanitarii-ob-opyte-prepodavaniya-za-rubezhom&quot;&gt;Здесь обратная ситуация.&lt;/a&gt;&lt;/strong&gt; Интервью с русскими преподавателями гуманитарных дисциплин, которые работают в США. Они просто говорят об учебе и работе. Как сильно там студенты отличаются от наших. Например, по их мнению, у русских студентов больше базовых знаний, а американские, в свою очередь, лучше умеют делать выводы на основе знаний.&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;Я не убиваю время. Просто у меня дела широкие&lt;/h3&gt;
+
+&lt;p&gt;И снова о любимом. О личной эффективности и о том, как жить хорошо и много успевать. &lt;strong&gt;&lt;a href=&quot;http://big-frog.livejournal.com/90458.html&quot;&gt;В этой статье&lt;/a&gt;&lt;/strong&gt; не закидывают цитатами великих людей, а наоборот, говорят, что иррациональность поведения - это естественная природа человека. В общем, если ты ничего не успеваешь и ищешь оправданий, то бегом читать статью. И оправдание найдешь, и, возможно, решение своих проблем.&lt;/p&gt;
+
+&lt;h3 id=&quot;strikestrike&quot;&gt;Город &lt;strike&gt;дорог&lt;/strike&gt;&lt;/h3&gt;
+
+&lt;p&gt;Будущее развивается не только в интернете. Сотни изобретений в области информационных технологий заставляют нас забыть о прогрессе вокруг. В Барселоне же озаботились состоянием своей дорожной сети и постепенно внедряют сумасшедший проект. Ожидаемые результаты выглядят красиво.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Зеленых зон станет в два раза больше. Загрязненность воздуха снизится в 2,5 раза, а уровень шума упадет на 50%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://daily.afisha.ru/cities/2302-kak-v-barselone-delayut-samuyu-radikalnuyu-urbanisticheskuyu-revolyuciyu-v-mire/&quot;&gt;Статья интересна в первую очередь тем&lt;/a&gt;&lt;/strong&gt;, что люди наконец стали изменять инфраструктуру города, чтобы жить в нем было комфортно. А то города обычно складываются исторически и некомфортно для житья.&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;Ссылочки&lt;/h3&gt;
+
+&lt;p&gt;Мне часто требуется графика. Для презентаций, приложений, сайтов. Постоянно гуглить и скачивать это неудобно. Раньше я пользовался программой &lt;strong&gt;&lt;a href=&quot;https://icons8.com&quot;&gt;icons8&lt;/a&gt;&lt;/strong&gt;. Там огромное количество иконок, но есть две проблемы. Первая - нельзя добавить собственную иконку. Вторая - в бесплатной версии экспорт возможен только в PNG. C &lt;strong&gt;&lt;a href=&quot;http://geticonjar.com&quot;&gt;IconJar&lt;/a&gt;&lt;/strong&gt; вы сами создаете свою библиотеку иконок в любом формате с удобной навигацией и поиском по ключевым словам.&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;Супергерои. Опять?&lt;/h3&gt;
+
+&lt;p&gt;На фоне прошумевшего трейлера “Логана”, как-то все не заметили, что в сети появился первый трейлер продолжения Стражей Галактики. Нетипичный боевик Marvel, на который можно сходить даже тем, кто далек от мира супергероев из комиксов.&lt;/p&gt;
+
+&lt;iframe width=&quot;840&quot; height=&quot;473&quot; src=&quot;https://www.youtube.com/embed/2mFcxL51X_k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Всем хороших выходных!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Oct 2016 11:21:02 +0800</pubDate>
+      </item>
+    
+      
+
+
+
+      <item>
+        <title>Букинист #003. Тайм-Memеджмент | Технолистика</title>
+        
+        <image>
+          <url>/images/bookinist/003.jpg</url>
+          <title>Букинист #003. Тайм-Memеджмент</title>
+          <link>http://divideby.ru/2016/08/01/get-it-done-guy/</link>
+        </image>
+        
+        <link>http://divideby.ru/2016/08/01/get-it-done-guy/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/08/01/get-it-done-guy/</guid>
+        <description>&lt;p&gt;Пожалуй, уже 3 года я практикую такое популярное занятие, уступающее сейчас разве что ловле покемонов, как прокрастинация. За это время у меня она эволюционировала из «посидеть в социалочках», «поиграть в компьютер» в «общественную деятельность», «поиграть на гитарке/флейте» и «посмотреть, почему &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sHROHvxfLyM&quot;&gt;дельфин: животное-буддист&lt;/a&gt;&lt;/strong&gt;». Да, это уже лучше. Всестороннее развитие сделает вас «интересной личностью»… но это не ведёт к достижению цели. На этом я не остановился и в конце концов дошел до того, что прокрастинировал, занимаясь поисками лекарства от прокрастинации. А над головой так же висят проекты, которые давно пора бы уже сделать…Чем лечить будем?&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Моя любовь к продуктивности превратилась в зависимость, и система организации сама по себе стала тратой времени.&lt;/p&gt;
@@ -32,9 +90,9 @@
 
 &lt;h3 id=&quot;section&quot;&gt;Больше всего я люблю прокрастинировать, жалуясь.&lt;/h3&gt;
 
-&lt;p&gt;Откладывание на потом называют прокрастинацией (или как говорит &lt;a href=&quot;https://ru.wikipedia.org/wiki/Прокрастинация#.D0.A0.D1.83.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F_.D1.82.D0.B5.D1.80.D0.BC.D0.B8.D0.BD.D0.B0&quot;&gt;Вики&lt;/a&gt; «завтрачеством» или «напотомством»). Это слово в некоторых кругах уже стало ругательным. С ним по соседству постоянно часто обитают «тайм-менеджмент», «целеустремленность», «личная эффективность», «успешность», «продуктивность»… Если вас ещё не тошнит, и вы знаете больше примеров, то прошу, составьте &lt;strong&gt;&lt;a href=&quot;http://bullshit-bingo.ru&quot;&gt;бинго&lt;/a&gt;&lt;/strong&gt;. С некоторыми я бы с удовольствием поиграл.&lt;/p&gt;
+&lt;p&gt;Откладывание на потом называют прокрастинацией (или как говорит &lt;strong&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/Прокрастинация#.D0.A0.D1.83.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F_.D1.82.D0.B5.D1.80.D0.BC.D0.B8.D0.BD.D0.B0&quot;&gt;Вики&lt;/a&gt;&lt;/strong&gt; «завтрачеством» или «напотомством»). Это слово в некоторых кругах уже стало ругательным. С ним по соседству постоянно обитают «тайм-менеджмент», «целеустремленность», «личная эффективность», «успешность», «продуктивность»… Если вас ещё не тошнит, и вы знаете больше примеров, то прошу, составьте &lt;strong&gt;&lt;a href=&quot;http://bullshit-bingo.ru&quot;&gt;бинго&lt;/a&gt;&lt;/strong&gt;. С некоторыми я бы с удовольствием поиграл.&lt;/p&gt;
 
-&lt;p&gt;Глупо думать, что это у меня одного проблема с организацией и ещё глупее считать, что человечество не пытается с ней бороться. Тем более, что вокруг этого не слабый ажиотаж. А кто-то вообще называют &lt;strong&gt;&lt;a href=&quot;http://stelazin.livejournal.com/108533.html&quot;&gt;завтрачество&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;http://2015.codefest.ru/lecture/1023&quot;&gt;чумой&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;https://daily.afisha.ru/archive/gorod/archive/prokrastinaziya/&quot;&gt;21 века&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Глупо думать, что это у меня одного проблема с организацией и ещё глупее считать, что человечество не пытается с ней бороться. Тем более, что вокруг этого не слабый ажиотаж. Кто-то вообще называет &lt;strong&gt;&lt;a href=&quot;http://stelazin.livejournal.com/108533.html&quot;&gt;завтрачество&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;http://2015.codefest.ru/lecture/1023&quot;&gt;чумой&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;https://daily.afisha.ru/archive/gorod/archive/prokrastinaziya/&quot;&gt;21 века&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Вы взяли эту книгу не потому, что просто любите читать (иначе придется констатировать, что у вас довольно странный вкус).&lt;/p&gt;
@@ -56,21 +114,21 @@
 
 &lt;h3 id=&quot;section-2&quot;&gt;Обо всём и сразу&lt;/h3&gt;
 
-&lt;p&gt;Автор взял на себя тяжелую ношу, рассказать сразу и обо всём ( прямо как мой блог)0) ). И у него неплохо это получается. От абстрактных и психологических советов по осознанной жизни и концентрации он легко переходит к советам по бумажной работе, уборке в доме или работы с почтой. Книга разделена на 9 шагов, которые подробно описываются.&lt;/p&gt;
+&lt;p&gt;Автор взял на себя тяжелую ношу, рассказать сразу и обо всём ( прямо как мой блог)0) ). И у него неплохо это получается. От абстрактных и психологических советов по осознанной жизни и концентрации он легко переходит к советам по бумажной работе, уборке в доме или работе с почтой. Книга разделена на 9 шагов, которые подробно описываются.&lt;/p&gt;
 
 &lt;p&gt;Читая, постоянно проскакивают мысли начиная от «Жиза» и «Хм, надо попробовать» до «Да что ты несёшь?» и обратно. Есть практические советы с которыми ты согласен, есть те, которые хочется скорее применить, и те, которые покажутся устаревшими или бесполезными. Но так ли это на деле? Лично мне не нужны советы по работе с папками, да и почта у меня не такая загруженная, но эту книгу и не писали для конкретного человека. Не исключайте и того, что эти знания могут пригодиться в будущем.&lt;/p&gt;
 
-&lt;p&gt;Такой широкий охват всего и вся конечно не очень хорошо сказывается на восприятии повествования. Оно показалось мне сумбурным. Но благо в конце каждого Шага автор предусмотрел блок с основными тезисами. Это помогает структурировать прочитанное. К тому же всю книгу автор строит на забавных и запоминающихся примерах. Хотите армию управляемых зомби? В книге практически расписано руководство по её созданию!&lt;/p&gt;
+&lt;p&gt;Такой широкий охват всего и вся не очень хорошо сказывается на восприятии повествования. Оно показалось мне сумбурным. Но благо в конце каждого Шага автор предусмотрел блок с основными тезисами. Это помогает структурировать прочитанное. К тому же всю книгу автор строит на забавных и запоминающихся примерах. Хотите армию управляемых зомби? В книге практически расписано руководство по её созданию!&lt;/p&gt;
 
 &lt;h3 id=&quot;section-3&quot;&gt;Меньше думай&lt;/h3&gt;
 
-&lt;p&gt;Я много выписал полезного для себя. И если всё выложить сюда, то это займет много места. Да и ни к чему это. Но вот этим хочется поделиться.&lt;/p&gt;
+&lt;p&gt;Я много выписал полезного для себя. И если всё выложить сюда, то это займет много места. Да и ни к чему это. Но вот чем хочется поделиться.&lt;/p&gt;
 
 &lt;p&gt;Думать - утомительно. Хорошо об этом рассказывает вот этот крутой &lt;strong&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/Канеман,_Даниел&quot;&gt;чувак&lt;/a&gt;&lt;/strong&gt;. Когда мы думаем, то расходуем энергию. Но какую? Мне очень нравится термин “мыслетопливо” (который я подсмотрел у чуть менее крутого &lt;strong&gt;&lt;a href=&quot;http://cartmendum.livejournal.com&quot;&gt;чувака&lt;/a&gt;&lt;/strong&gt;). Так вот этого мыслетоплива у нас не так много(хотя это поправимо), и как только оно расходуется, то и начинаются все беды. В книге Роббинса очень много советов направлены на то, чтобы меньше думать. Важно принимать решения однажды и записывать его. А при случае пользоваться тем, о чем уже подумал.&lt;/p&gt;
 
 &lt;h3 id=&quot;section-4&quot;&gt;Цитаты&lt;/h3&gt;
 
-&lt;p&gt;Если сам начну писать о всём, что мне понравилось, то это затянется. Так что вот немного цитат, чтобы вас заинтересовать.&lt;/p&gt;
+&lt;p&gt;Если сам начну писать о всём, что мне понравилось, то это затянется. Так что вот куча цитат, чтобы вас заинтересовать. И это лишь малая часть.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Для начала вам нужен друг. Подойдет любой. Если друга нет, заведите его.&lt;/p&gt;
@@ -107,13 +165,13 @@
 
 &lt;h3 id=&quot;section-5&quot;&gt;Резюме&lt;/h3&gt;
 
-&lt;p&gt;Мы живем в обществе (вот сюрприз да?). И потуги, направленные на осознанную и, простите, продуктивную жизнь обречены, если игнорировать этот очевидный факт. Межличностным отношениям в книге тоже уделено много внимания. На это даже выделен отдельный Шаг. И за этот шаг я полюбил эту книгу. Личные наблюдения, которые помогают мне строить отношения с людьми, совпали с авторскими советами. И важно то, что книга не делает акцент на том, чтобы сделать из вас мегаэффективную машину. Она концентрируется на том, чтобы привнести в вашу жизнь осознанности и дать вам времени наслаждаться жизнью.&lt;/p&gt;
+&lt;p&gt;Мы живем в обществе (вот сюрприз да?). И потуги, направленные на осознанную и, простите, продуктивную жизнь обречены, если игнорировать этот очевидный факт. В книге много внимания на межличностных отношениях. На это даже выделен отдельный Шаг. И за этот шаг я полюбил эту книгу. Личные наблюдения, которые помогают мне строить отношения с людьми, совпали с авторскими советами. И главное, книга не делает акцент на том, чтобы сделать из вас мегаэффективную машину. Стивер Роббинс хочет &lt;strike&gt;чтоб вы купили его книгу&lt;/strike&gt; привнести в вашу жизнь осознанности и дать вам времени наслаждаться жизнью.&lt;/p&gt;
 
-&lt;p&gt;Книга не откровение и не шедевр. В середине меня даже посещали мысли бросить её читать, потому что там некоторые советы мне казались (да и сейчас кажутся) ужасными. К тому же пройдет ещё немало времени, пока я смогу внедрить некоторые советы в повседневную жизнь. Но, не смотря на это, отношение к этой теме у меня сильно изменилось и теперь завтрачество мне не кажется такой серьёзной проблемой, которая приносит уныние и депрессию.&lt;/p&gt;
+&lt;p&gt;Книга не откровение и не шедевр. В середине меня даже посещали мысли бросить её читать, потому что там советы мне казались (да и сейчас кажутся) ужасными. К тому же пройдет ещё немало времени, пока я смогу внедрить что-то в повседневную жизнь. Но, не смотря на это, отношение к теме у меня сильно изменилось и теперь завтрачество мне не кажется такой серьёзной проблемой, которая приносит уныние и депрессию.&lt;/p&gt;
 
 &lt;p&gt;Рекомендую прочитать эту книгу. Она небольшая, и не отнимет у вас много времени. Начните сейчас. Сегодня хороший день чтобы начать! Понедельник, 1-ое число. А я пока пойду, сыграю на гитаре любимую песню.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 31 Jul 2016 15:05:41 +0800</pubDate>
+        <pubDate>Mon, 01 Aug 2016 20:20:36 +0800</pubDate>
       </item>
     
       
@@ -121,10 +179,10 @@
 
 
       <item>
-        <title>Лайкни бывшую(ого) в инстаграм. Часть 1 | Блог ноющего программиста</title>
+        <title>Лайкни бывшую(ого) в инстаграм. Часть 1 | Технолистика</title>
         
-        <link>http://divideby.ml/2016/07/24/exalarm/</link>
-        <guid isPermaLink="true">http://divideby.ml/2016/07/24/exalarm/</guid>
+        <link>http://divideby.ru/2016/07/24/exalarm/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/07/24/exalarm/</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/images/exAlarm/Chapter01/0.jpg&quot; alt=&quot;start&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;attention&quot;&gt;Attention&lt;/h2&gt;
@@ -138,7 +196,7 @@
 &lt;p&gt;После нескольких безуспешных попыток &lt;strong&gt;быстро&lt;/strong&gt; подружиться с iOS + Objective-C, было решено не насиловать этот труп. Временем я своим дорожу и потому жалею, что не понял этого ранее. Ну и как догадались читатели “в теме”, я принялся изучать iOS + Swift.
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;Никогда не знаешь, где можешь подхватить идею приложения для тренировки. В этот раз помог твиттер. Буду делать будильник, который ставит лайк бывшей в инстаграмм, при нажатии на кнопку “Отложить на 5 минут”. Помимо этой простой киллерфичи есть идея добавить и другие методы борьбы с “сонями”. Например снимать по 10 рублей за каждое “откладывание на 5 минут” хе-хе. Пока не знаю на сколько это реализуемо (через внутренние покупки/подписку или через платные смс) &lt;img class=&quot;emoji&quot; title=&quot;:smiley:&quot; alt=&quot;:smiley:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f603.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Идей на самом деле много, но о них потом.&lt;/p&gt;
+&lt;p&gt;Никогда не знаешь, где можешь подхватить идею приложения для тренировки. В этот раз помог твиттер. Буду делать будильник, который ставит лайк бывшей в инстаграмм, при нажатии на кнопку “Отложить на 5 минут”. Помимо этой простой киллерфичи есть идея добавить и другие методы борьбы с “сонями”. Например снимать по 10 рублей за каждое “откладывание на 5 минут” хе-хе. Пока не знаю на сколько это реализуемо (через внутренние покупки/подписку или через платные смс). Идей на самом деле много, но о них потом.&lt;/p&gt;
 
 &lt;p&gt;Всё что описывается ниже написано в &lt;strong&gt;XCode 7.3.1&lt;/strong&gt; и протестировано на эмуляторе с &lt;strong&gt;iOS 9.3&lt;/strong&gt;. В самом первом посте я говорил, что буду всё очень подробно описывать. С тех пор планы не изменились. Это первая часть из…нескольких. Посмотрим как пойдёт.&lt;/p&gt;
 
@@ -148,7 +206,7 @@
   &lt;li&gt;Выложить всё это дело в AppStore. Потому что мне не на ком пробовать :)0)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Для такого простого приложения здесь достаточно мелких задач, которые задействуют много сторон разработки приложений. Тут и хранение данных, и работа с внешним API, и механизм нотификаций iOS (уведомления, которые всех уже достали), ну и конечно же основы работы с контроллерами, вьюшками и обработчиками событий. В общем, если вы совсем ноль, то надеюсь данный цикл статей поможет вам немножк втянуться в iOS разработку. Желательно конечно иметь опыт хоть какого-нибудь программирования. Но я буду стараться писать ОЧЕНЬ подробно, надеюсь что не зря (всё-таки зря &lt;img class=&quot;emoji&quot; title=&quot;:sob:&quot; alt=&quot;:sob:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;).&lt;/p&gt;
+&lt;p&gt;Для такого простого приложения здесь достаточно мелких задач, которые задействуют много сторон разработки приложений. Тут и хранение данных, и работа с внешним API, и механизм нотификаций iOS (уведомления, которые всех уже достали), ну и конечно же основы работы с контроллерами, вьюшками и обработчиками событий. В общем, если вы совсем ноль, то надеюсь данный цикл статей поможет вам немножк втянуться в iOS разработку. Желательно конечно иметь опыт хоть какого-нибудь программирования. Но я буду стараться писать ОЧЕНЬ подробно, надеюсь что не зря (всё-таки зря).&lt;/p&gt;
 
 &lt;p&gt;В данном посте будет рассмотрено устройство наипростейшего будильника, который только и может, что ставить напоминалку со звуком на определённое время.&lt;/p&gt;
 
@@ -188,7 +246,7 @@
 
 &lt;h3 id=&quot;section-4&quot;&gt;Шаг 2. Разрешаем уведомлять.&lt;/h3&gt;
 
-&lt;p&gt;Дальше нам нужно разрешить приложению использовать уведомления. Для этого обратимся к методу &lt;code class=&quot;highlighter-rouge&quot;&gt;registerUserNotificationSettings&lt;/code&gt; класса &lt;code class=&quot;highlighter-rouge&quot;&gt;UIApplication&lt;/code&gt;. В файле &lt;code class=&quot;highlighter-rouge&quot;&gt;AppDelegate.swift&lt;/code&gt; есть функция &lt;code class=&quot;highlighter-rouge&quot;&gt;application&lt;/code&gt; которая выполняется как раз после запуска нашего приложения. Важный момент. Здесь идет только запуск приложения, не факт, что оно полностью запустится до того момента как функция начнет выполнятся. Это то самое место, где мы можем задать настройки приложения и сказать ему, что оно будет отсылать уведомления. Метод &lt;code class=&quot;highlighter-rouge&quot;&gt;registerUserNotificationSettings&lt;/code&gt; на вход принимает объект &lt;code class=&quot;highlighter-rouge&quot;&gt;UIUserNotificationSettings&lt;/code&gt; (будет репрессирован в iOS 10 &lt;img class=&quot;emoji&quot; title=&quot;:sob:&quot; alt=&quot;:sob:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; ) . У этого объекта два поля: &lt;code class=&quot;highlighter-rouge&quot;&gt;types&lt;/code&gt; и &lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Дальше нам нужно разрешить приложению использовать уведомления. Для этого обратимся к методу &lt;code class=&quot;highlighter-rouge&quot;&gt;registerUserNotificationSettings&lt;/code&gt; класса &lt;code class=&quot;highlighter-rouge&quot;&gt;UIApplication&lt;/code&gt;. В файле &lt;code class=&quot;highlighter-rouge&quot;&gt;AppDelegate.swift&lt;/code&gt; есть функция &lt;code class=&quot;highlighter-rouge&quot;&gt;application&lt;/code&gt; которая выполняется как раз после запуска нашего приложения. Важный момент. Здесь идет только запуск приложения, не факт, что оно полностью запустится до того момента как функция начнет выполнятся. Это то самое место, где мы можем задать настройки приложения и сказать ему, что оно будет отсылать уведомления. Метод &lt;code class=&quot;highlighter-rouge&quot;&gt;registerUserNotificationSettings&lt;/code&gt; на вход принимает объект &lt;code class=&quot;highlighter-rouge&quot;&gt;UIUserNotificationSettings&lt;/code&gt; (будет репрессирован в iOS 10). У этого объекта два поля: &lt;code class=&quot;highlighter-rouge&quot;&gt;types&lt;/code&gt; и &lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;В &lt;code class=&quot;highlighter-rouge&quot;&gt;types&lt;/code&gt; указывается типы уведомлений, которые разрешается использовать. В нашем случае &lt;code class=&quot;highlighter-rouge&quot;&gt;Sound&lt;/code&gt; и всплывающее окошко &lt;code class=&quot;highlighter-rouge&quot;&gt;Alert&lt;/code&gt;. Есть ещё &lt;code class=&quot;highlighter-rouge&quot;&gt;Badges&lt;/code&gt;. Это такие красные кружочки с циферками над иконкой приложения.&lt;/p&gt;
 
@@ -262,7 +320,7 @@
 
 &lt;p&gt;Данный пост станет абсолютно бесполезным через месяц (а я как раз через месяц и хотел закончить цикл постов). Пусть это будет мне уроком. Но я хоть потренировался в написании технотекстов и немножко прокачал блог (всплывающие подсказки и подсвечивание областей картинок). Хотя тут ещё писать и писать, а для полного подробного объяснения ещё очень далеко. Ну да ладно. Спасибо, что читаете. Всего доброго, не болейте!&lt;/p&gt;
 
-&lt;p&gt;P.S. Для быстрого старта рекомендую курс c Udemy.com “The Complete IOS 9 Swift 2.0 Guide - Make 20 Applications”. Кто ищет бесплатно, тот всегда найдет &lt;img class=&quot;emoji&quot; title=&quot;:wink:&quot; alt=&quot;:wink:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f609.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;.&lt;/p&gt;
+&lt;p&gt;P.S. Для быстрого старта рекомендую курс c Udemy.com “The Complete IOS 9 Swift 2.0 Guide - Make 20 Applications”. Кто ищет бесплатно, тот всегда найдет.&lt;/p&gt;
 
 &lt;map name=&quot;genlinks0&quot;&gt;
     &lt;area id=&quot;rct0&quot; href=&quot;#&quot; shape=&quot;rect&quot; coords=&quot;120,300,520,350&quot; alt=&quot;Octoface&quot; data-maphilight=&quot;{&#39;stroke&#39;:false,&#39;fillColor&#39;:&#39;ff0000&#39;,&#39;fillOpacity&#39;:0.6}&quot; title=&quot;Metadata&quot; /&gt;
@@ -293,13 +351,17 @@
 
 
       <item>
-        <title>Тойота-Маша-Недоверяша | Блог ноющего программиста</title>
+        <title>Букинист #002. Тойота-Маша-Недоверяша | Технолистика</title>
         
-        <link>http://divideby.ml/2016/07/11/toyota/</link>
-        <guid isPermaLink="true">http://divideby.ml/2016/07/11/toyota/</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;http://divideby.ml/images/toyota.jpg&quot; alt=&quot;toyota&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
+        <image>
+          <url>/images/bookinist/002.jpg</url>
+          <title>Букинист #002. Тойота-Маша-Недоверяша</title>
+          <link>http://divideby.ru/2016/07/11/toyota/</link>
+        </image>
+        
+        <link>http://divideby.ru/2016/07/11/toyota/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/07/11/toyota/</guid>
+        <description>&lt;blockquote&gt;
   &lt;p&gt;Все как могли убивали время, и только Михалыч его жалел и непробиваемо лежал на диване.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -357,8 +419,6 @@
 
 &lt;p&gt;Поначалу тяжело читается. Приходится действительно напрягать воображение, чтобы понять, о чем беседуют герои. Так же книга наполнена любовью к сибирской природе (и просто любовью), много страниц с описанием красоты полей, Енисея, Саянских гор… Лично мне такое трудно даётся. Только ближе к середине меня захватило. И не отпускало до конца. Отдельный шедевр - 15 глава, улыбка у меня потом долго не сходила. Рекомендую прочитать повесть хотя бы ради неё.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://divideby.ml/images/toyota2.jpg&quot; alt=&quot;toyota&quot; /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Mon, 11 Jul 2016 19:16:04 +0800</pubDate>
       </item>
@@ -368,13 +428,17 @@
 
 
       <item>
-        <title>Quot servi tot hostes | Блог ноющего программиста</title>
+        <title>Букинист #001. Quot servi tot hostes | Технолистика</title>
         
-        <link>http://divideby.ml/2016/07/11/slaves/</link>
-        <guid isPermaLink="true">http://divideby.ml/2016/07/11/slaves/</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;http://divideby.ml/images/09fc65eda6593cda5f7213d9dd372fd1ebe8a688.jpeg&quot; alt=&quot;Как управлять рабами?&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Не так давно я снова увлёкся чтением книг. До этого был чуть ли не пятилетний перерыв, когда я не читал ничего, кроме учебников. Но внезапно cлучилась пара человек, которые каким-то образом непроизвольно способстовали обратно вернуться к чтению.&lt;/p&gt;
+        <image>
+          <url>/images/bookinist/001.jpg</url>
+          <title>Букинист #001. Quot servi tot hostes</title>
+          <link>http://divideby.ru/2016/07/11/slaves/</link>
+        </image>
+        
+        <link>http://divideby.ru/2016/07/11/slaves/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/07/11/slaves/</guid>
+        <description>&lt;p&gt;Не так давно я снова увлёкся чтением книг. До этого был чуть ли не пятилетний перерыв, когда я не читал ничего, кроме учебников. Но внезапно cлучилась пара человек, которые каким-то образом непроизвольно способстовали обратно вернуться к чтению.&lt;/p&gt;
 
 &lt;h3 id=&quot;section&quot;&gt;Начав свой путь как почтенный рабовладелец, вы закончите рабом.&lt;/h3&gt;
 &lt;p&gt;Стояли однажды с одногруппником в “Читай-городе” и на полке исторической литературы взгляд упал на книжку с вызывающим названием “Как управлять рабами”. Это книга об управлении, управленцах и подчиненных. Я скептически отношусь к подобной литературе. Но именно эта книга стала первой купленной мною за много лет. Честно сказать даже не знаю почему я её приобрёл. Название понравилось наверно.&lt;/p&gt;
@@ -456,16 +520,16 @@
 
 
       <item>
-        <title>Hello everyone! | Блог ноющего программиста</title>
+        <title>Hello everyone! | Технолистика</title>
         
         <image>
           <url>http://demiart.ru/forum/index.php?act=module&module=gallery&cmd=viewimage&img=64379</url>
           <title>Hello everyone!</title>
-          <link>http://divideby.ml/2016/01/22/hello_everyone/</link>
+          <link>http://divideby.ru/2016/01/22/hello_everyone/</link>
         </image>
         
-        <link>http://divideby.ml/2016/01/22/hello_everyone/</link>
-        <guid isPermaLink="true">http://divideby.ml/2016/01/22/hello_everyone/</guid>
+        <link>http://divideby.ru/2016/01/22/hello_everyone/</link>
+        <guid isPermaLink="true">http://divideby.ru/2016/01/22/hello_everyone/</guid>
         <description>&lt;h2 id=&quot;section&quot;&gt;Всем привет!&lt;/h2&gt;
 &lt;p&gt;Я наконец-то сделал это! Завёл собственный бложик, который могу вести прямо в &lt;strong&gt;&lt;a href=&quot;/search?t=emacs&quot;&gt;#emacs&lt;/a&gt;&lt;/strong&gt; без привязки к какому-либо сервису с тяжкой возможностью кастомизации. Да ещё и без капельки серверного кода. Как я это сделал? Есть такая замечательная штука как &lt;strong&gt;&lt;a href=&quot;/search?t=jekyll&quot;&gt;#jekyll&lt;/a&gt;&lt;/strong&gt;. Про него есть хорошая статья на &lt;strong&gt;&lt;a href=&quot;http://habrahabr.ru/post/207650/&quot;&gt;Хабре&lt;/a&gt;&lt;/strong&gt;. Когда сам полностью разберусь во всей магии, которую творит это чудо, обязательно напишу пост. Вкратце &lt;strong&gt;Jekyll&lt;/strong&gt; - генератор &lt;strong&gt;СТАТИЧЕСКИХ&lt;/strong&gt; сайтов. Свой твиттер сделать на нем конечно вряд ли получится, но блог - запросто! (&lt;strong&gt;Jekyll&lt;/strong&gt; и позиционируется как генератор блогов). 
 &lt;!--more--&gt;&lt;/p&gt;
@@ -476,25 +540,24 @@
 
 &lt;p&gt;Итак, первым же постом хочу сразу же определить теги, которые я планирую использовать + краткое описание. Поехали!&lt;/p&gt;
 
-&lt;h3 id=&quot;emacssearchtemacs&quot;&gt;&lt;a href=&quot;/search?t=emacs&quot;&gt;#emacs&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;emacs&quot;&gt;#emacs&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;http://ergoemacs.org/emacs/emacs_logo/emacs_logo_no_border.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Описание/восхваление/признание в любви лучшему в мире текстовому редактору! Тонкости настройки &lt;em&gt;.emacs&lt;/em&gt;, используемые и неиспользуемые плагины, бесконечные рассказы о том, что емакс может заменить вам все программы на компьютере. Надеюсь когда-нибудь и мой дорогой читатель (если такой вдруг появится) перейдет на эту прелесть и обратится в веру его святейшества Столлмана&lt;/p&gt;
 
-&lt;h3 id=&quot;musicsearchtmusic-guitarsearchtguitar&quot;&gt;&lt;a href=&quot;/search?t=music&quot;&gt;#music&lt;/a&gt; &lt;a href=&quot;/search?t=guitar&quot;&gt;#guitar&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;music&quot;&gt;#music&lt;/h3&gt;
 &lt;p&gt;Спонтанные посты о музыке и новые открытия в этом удивительном мире, который я как никогда прочувствовал в прошлом году. Разговоры о песнях, периодические посты о прогрессе в обучении игры на гитаре, возможно c рассказами о возникших трудностях.&lt;/p&gt;
 
-&lt;h3 id=&quot;jekyllsearchtjekyll&quot;&gt;&lt;a href=&quot;/search?t=jekyll&quot;&gt;#jekyll&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;jekyll&quot;&gt;#jekyll&lt;/h3&gt;
 &lt;p&gt;Рассказы о технической стороне блога. Что и как работает, что и как поменялось или поменяется. В планах полностью переписать текущий шаблон и добавить возможность отслеживать читаемые книги.&lt;/p&gt;
 
-&lt;h3 id=&quot;progsearchtprog-golangsearchtgolang-javasearchtjava-iossearchtios-androidsearchtandroid-phpsearchtphp-clojuresearchtclojure-pythonsearchtpython-swiftsearchtswift&quot;&gt;&lt;a href=&quot;/search?t=prog&quot;&gt;#prog&lt;/a&gt; &lt;a href=&quot;/search?t=golang&quot;&gt;#golang&lt;/a&gt; &lt;a href=&quot;/search?t=java&quot;&gt;#java&lt;/a&gt; &lt;a href=&quot;/search?t=ios&quot;&gt;#ios&lt;/a&gt; &lt;a href=&quot;/search?t=android&quot;&gt;#android&lt;/a&gt; &lt;a href=&quot;/search?t=php&quot;&gt;#php&lt;/a&gt; &lt;a href=&quot;/search?t=clojure&quot;&gt;#clojure&lt;/a&gt; &lt;a href=&quot;/search?t=python&quot;&gt;#python&lt;/a&gt; &lt;a href=&quot;/search?t=swift&quot;&gt;#swift&lt;/a&gt;&lt;/h3&gt;
-
+&lt;h3 id=&quot;prog-golang-java-ios-android-php-clojure-python-swift&quot;&gt;#prog #golang #java #ios #android #php #clojure #python #swift&lt;/h3&gt;
 &lt;p&gt;Всё что связано с программированием. Нытьё, рецепты, моя борьба с фреймворками и мобильными платформами. Всё тут. Скорее всего это будет самая частая рубрика. Буду стараться писать по любой проблеме.&lt;/p&gt;
 
-&lt;h3 id=&quot;librarysearchtlibrary&quot;&gt;&lt;a href=&quot;/search?t=library&quot;&gt;#library&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;library&quot;&gt;#library&lt;/h3&gt;
 &lt;p&gt;Библиотека. Книги которые я читал, читаю и буду читать. Ну и отзывы без спойлеров в комплекте. Тут всё просто.&lt;/p&gt;
 
-&lt;h3 id=&quot;offtopsearchtofftop&quot;&gt;&lt;a href=&quot;/search?t=offtop&quot;&gt;#offtop&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;offtop&quot;&gt;#offtop&lt;/h3&gt;
 &lt;p&gt;Тег на всякий случай.&lt;/p&gt;
 
 &lt;p&gt;До скорой встречи, не болейте!&lt;/p&gt;
